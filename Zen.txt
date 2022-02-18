@@ -13,14 +13,14 @@
 13.
 14. Now is better than never.
 15.
-16.
+16. Although never is often better than *right* now.
 17.
 18.If the implementation is easy to explain, it may be a good idea.
 19.
 20.
 21.
 22.
-23.
+23. Complex is better than complicated.
 24.
 25.
 26.
