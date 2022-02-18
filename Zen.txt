@@ -16,7 +16,7 @@ Zen of Python!!!
 15.
 16. Although never is often better than *right* now.
 17.
-18.
+18.If the implementation is easy to explain, it may be a good idea.
 19.
 20.
 21.
@@ -26,6 +26,6 @@ Zen of Python!!!
 25.
 26.
 27.
-28.
+28.Sparse is better than dense.
 29.
 30.
