@@ -24,7 +24,7 @@
 24.
 25.
 26.
-27.
+27. Special cases aren't special enough to break the rules.
 28.Sparse is better than dense.
 29.
 30. Now is better than never.
