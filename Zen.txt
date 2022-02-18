@@ -26,6 +26,6 @@ Zen of Python!!!
 25.
 26.
 27.
-28.
+28.Sparse is better than dense.
 29.
 30.
