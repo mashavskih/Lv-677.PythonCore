@@ -33,3 +33,4 @@ Zen of Python!
 30. Unless explicitly silenced.
 39. Beautiful is better than ugly.
 44. Sparse is better than dense.
+60. Unless explicitly silenced.
