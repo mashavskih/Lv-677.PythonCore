@@ -31,3 +31,4 @@ Zen of Python!
 28.Sparse is better than dense.
 29.Although practicality beats purity.
 30.Now is better than never.
+39. Beautiful is better than ugly.
