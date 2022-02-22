@@ -1,3 +1,4 @@
+Zen of Python!
 1.Beautiful is better than ugly.
 2.Explicit is better than implicit.
 3.Simple is better than complex.
@@ -11,7 +12,7 @@
 11.
 12.In the face of ambiguity, refuse the temptation to guess.
 13.There should be one-- and preferably only one --obvious way to do it.
-14.Although that way may not be obvious at first unless you're Dutch.
+14. Although that way may not be obvious at first unless you're Dutch.
 15.Now is better than never.
 16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
@@ -25,8 +26,13 @@
 23.Complex is better than complicated.
 24.Flat is better than nested.
 25.
-26.
+26.Complex is better than complicated.
 27.Special cases aren't special enough to break the rules.
 28.Sparse is better than dense.
 29.Although practicality beats purity.
-30.Now is better than never.
+30. Unless explicitly silenced.
+39. Beautiful is better than ugly.
+44. Sparse is better than dense.
+45.
+46.
+47. Although practicality beats purity.
