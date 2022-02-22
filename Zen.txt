@@ -35,4 +35,4 @@ Zen of Python!
 44. Sparse is better than dense.
 45.
 46.
-47. Although practicality beats purity.
+47. Although practicality beats 
