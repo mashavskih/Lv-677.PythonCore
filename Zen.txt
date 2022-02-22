@@ -28,5 +28,5 @@
 26.
 27.Special cases aren't special enough to break the rules.
 28.Sparse is better than dense.
-29.
+29.Although practicality beats purity.
 30.Now is better than never.
