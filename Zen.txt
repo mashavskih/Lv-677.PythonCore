@@ -30,28 +30,15 @@ Zen of Python!
 27.Special cases aren't special enough to break the rules.
 28.Sparse is better than dense.
 29.Although practicality beats purity.
-<<<<<<< HEAD
 30. Unless explicitly silenced.
-36. If the implementation is hard to explain, it's a bad idea.
 33. Although that way may not be obvious at first unless you're Dutch.
 35. Although never is often better than *right* now.
+36. If the implementation is hard to explain, it's a bad idea.
 39. Beautiful is better than ugly.
 44. Sparse is better than dense.
-47. Although practicality beats purity.
-50. In the face of ambiguity, refuse the temptation to guess.
-=======
-30.Now is better than never.
-<<<<<<< HEAD
-39. Beautiful is better than ugly.
->>>>>>> ec96d8d00d5ca74fa33ebc580ac052594fe744d4
-=======
-33.Although that way may not be obvious at first unless you're Dutch.
-35.Although never is often better than *right* now.
-39.Beautiful is better than ugly.
-44.Sparse is better than dense.
 45.
 46.
 47.Although practicality beats purity.
 50.In the face of ambiguity, refuse the temptation to guess.
 56.Explicit is better than implicit.
->>>>>>> dd4ad4f9ab709b875605917c9a1907fe3d3c3b1f
+
