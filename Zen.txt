@@ -36,3 +36,4 @@ Zen of Python!
 45.
 46.
 47. Although practicality beats purity.
+48. Errors should never pass silently.
