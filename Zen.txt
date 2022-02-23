@@ -31,10 +31,16 @@ Zen of Python!
 28.Sparse is better than dense.
 29.Although practicality beats purity.
 30. Unless explicitly silenced.
-<<<<<<< HEAD
+
+
 39. Beautiful is better than ugly.
-44. Sparse is better than dense.
-=======
 35. Although never is often better than *right* now.
->>>>>>> 52d3062f94b069d23e5e4360d4926dad9d6c7772
+44. Sparse is better than dense.
+
+
+
 47. Although practicality beats purity.
+
+
+
+
