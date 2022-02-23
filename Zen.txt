@@ -32,6 +32,7 @@ Zen of Python!
 29.Although practicality beats purity.
 30. Unless explicitly silenced.
 50. In the face of ambiguity, refuse the temptation to guess.
+50. In the face of ambiguity, refuse the temptation to guess.
 33. Although that way may not be obvious at first unless you're Dutch.
 35. Although never is often better than *right* now.
 39. Beautiful is better than ugly.
