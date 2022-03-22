@@ -1,0 +1,12 @@
+a = 24
+b = 4
+amount = a + b
+print ("amount =", amount )
+different = a - b
+print ( "different = ", different)
+multiplicatian = a * b
+print ("multiplicatian =", multiplicatian)
+division = a / b
+print ("division = ", division)
+degree = a**b
+print ("degree = ", degree)
