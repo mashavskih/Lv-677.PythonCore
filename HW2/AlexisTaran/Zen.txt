@@ -42,3 +42,4 @@ Zen of Python!
 56. Readability counts.
 58. Complex is better than complicated.
 59. Explicit is better than implicit.
+60. Simple is better than complex.
