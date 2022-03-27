@@ -23,8 +23,3 @@ else:
 
 
 
-# checks_the_login = []
-# item = input("Enter login : ")
-# checks_the_login.append(item)
-# if item in checks_the_login :
-#     print("Hello {item}!")
