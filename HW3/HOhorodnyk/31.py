@@ -1,4 +1,4 @@
-filosofi_of_Python = " Beautiful is better than ugly\
+phylosofy_of_Python = " Beautiful is better than ugly\
 Explicit is better than implicit\
 Simple is better than complex\
 Complex is better than complicated\
@@ -18,3 +18,11 @@ If the implementation is hard to explain, it's a bad idea\
 If the implementation is easy to explain, it may be a good idea\
 Namespaces are one honking great idea -- let's do more of those"
 
+words_to_count = ['better', 'never', 'is']
+phylosofy_l = phylosofy_of_Python.split()
+for word in words_to_count:
+    print(f'{word}: {phylosofy_l.count(word)}')
+
+print (phylosofy_of_Python.upper())
+
+print (phylosofy_of_Python.replace ('i','&'))
