@@ -6,20 +6,25 @@
 # Если логин «Первый», то приветствуйте пользователей. Если логин другой, отправьте сообщение об ошибке.
 # (необходимо использовать цикл while)
 
-checks_the_login = []
-item = input("Enter login : ")
-while item != "finish":
-    checks_the_login.append(item)
-    item = input("Enter login : ")
-print(checks_the_login)
+# checks_the_login = []
+# item = input("Enter login : ")
+# while item != "finish":
+#     checks_the_login.append(item)
+#     item = input("Enter login : ")
+# print(checks_the_login)
 
-login = input("Enter login : ")
-if login in checks_the_login:  
-    print(f"Hello {login}!")
-else:    
-    print("Error: This login was not found.")
+# login = input("Enter login : ")
+# if login in checks_the_login:  
+#     print(f"Hello {login}!")
+# else:    
+#     print("Error: This login was not found.")
        
 
-
+login = input("Enter login : ")  
+while login != "First":
+    print("Error")
+    login = input("Enter login : ")
+else:
+    print("Hello First!")
 
 
