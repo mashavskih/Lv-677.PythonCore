@@ -1,6 +1,3 @@
-import re
-
-
 def create_array(n: float) -> list:
     res=[]
     i=1
