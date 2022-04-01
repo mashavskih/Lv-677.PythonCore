@@ -10,7 +10,9 @@ def triangle_ares(a, b, c):
     return area_triangle
 
 
-# def circle(r):
+def circle_area(radius):
+    return math.pi * (radius ** 2)
+
 
 choice_area = int(input("Your choice 1-3\n"
                         "1. area of a rectangle\n"
@@ -28,3 +30,7 @@ elif choice_area == 2:
     b = float(input('b = '))
     c = float(input('c = '))
     print(f"area of a triangle = {triangle_ares(a, b, c)}")
+elif choice_area == 3:
+    print("enter radius circle")
+    radius = float(input("radius = "))
+    print(f"area of a circle = {circle_area(radius)}")
