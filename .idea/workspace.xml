@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="c59920c9-de10-4238-8f5b-12716b919a26" name="Changes" comment="">
 =======
     <list default="true" id="e26246c8-ddb6-4a30-b9b8-25d2c4355f3f" name="Changes" comment="">
 >>>>>>> dccaf19 (add gittignore .idea)
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="209df7f5-7ea3-4a3b-840b-ddece9dd9344" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+<<<<<<< HEAD
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -30,6 +36,8 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+=======
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

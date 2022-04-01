@@ -45,6 +45,7 @@ Zen of Python!
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 59. Explicit is better than implicit.
 =======
 >>>>>>> 5465485fe675719e6d68566678eb3a23805c7876
@@ -54,6 +55,10 @@ Zen of Python!
 >>>>>>> 14fe43b (resolt conflict_final)
 59. Explicit is better than implicit.
 =======
+=======
+59. Explicit is better than implicit.
+=======
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
 Zen of Python!!!
 1. 
 2.
@@ -87,6 +92,9 @@ Zen of Python!!!
 30.
 >>>>>>> 6baa3e8 (SoKKoS)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> d2d3363 (SoKKoS)
 =======
 >>>>>>> 14fe43b (resolt conflict_final)
+=======
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
