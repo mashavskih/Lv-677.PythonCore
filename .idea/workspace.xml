@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="c59920c9-de10-4238-8f5b-12716b919a26" name="Changes" comment="">
-=======
-    <list default="true" id="e26246c8-ddb6-4a30-b9b8-25d2c4355f3f" name="Changes" comment="">
->>>>>>> dccaf19 (add gittignore .idea)
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="209df7f5-7ea3-4a3b-840b-ddece9dd9344" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HW2/SoKKoS/Zen.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="c405cc2d3cac56c64c530924145339d6fd439a69" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,9 +49,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Task3_Fibonacci" />
-        <item itemvalue="Python.Task3_Fibonacci" />
-        <item itemvalue="Python.Task3_Fibonacci" />
-        <item itemvalue="Python.Task3_Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -83,14 +61,6 @@
       <option name="presentableId" value="Default" />
       <updated>1647679180881</updated>
     </task>
-    <task id="LOCAL-00001" summary="Revert &quot;resolt conflict3&quot;&#10;&#10;This reverts commit c405cc2d">
-      <created>1648840993044</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648840993044</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,9 +73,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert &quot;resolt conflict3&quot;&#10;&#10;This reverts commit c405cc2d" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;resolt conflict3&quot;&#10;&#10;This reverts commit c405cc2d" />
   </component>
 </project>
