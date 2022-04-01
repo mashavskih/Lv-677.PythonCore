@@ -40,4 +40,9 @@ Zen of Python!
 49. Namespaces are one honking great idea -- let's do more of those!
 50. In the face of ambiguity, refuse the temptation to guess.
 56. Readability counts.
+<<<<<<< HEAD
 58. Complex is better than complicated.
+=======
+58. Complex is better than complicated.
+59. Explicit is better than implicit.
+>>>>>>> 39ab282eb4d2756cda9a0664c836fd10335bc2dd

@@ -128,8 +128,18 @@ pip-selfcheck.json
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
+<<<<<<< HEAD
 .idea
 
+=======
+<<<<<<< HEAD
+.idea/
+.idea/workspace.xml
+=======
+.idea
+
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
+>>>>>>> 39ab282eb4d2756cda9a0664c836fd10335bc2dd
 ## File-based project format:
 *.iws
 

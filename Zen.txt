@@ -42,8 +42,28 @@ Zen of Python!
 50. In the face of ambiguity, refuse the temptation to guess.
 56. Readability counts.
 58. Complex is better than complicated.
+<<<<<<< HEAD
 59. Explicit is better than implicit.
 =======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+59. Explicit is better than implicit.
+=======
+>>>>>>> 5465485fe675719e6d68566678eb3a23805c7876
+>>>>>>> 06add4bb4d44d6b42ae3e615b328a677530ce5ac
+=======
+=======
+>>>>>>> 14fe43b (resolt conflict_final)
+59. Explicit is better than implicit.
+=======
+=======
+59. Explicit is better than implicit.
+=======
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
+>>>>>>> 39ab282eb4d2756cda9a0664c836fd10335bc2dd
 Zen of Python!!!
 1. 
 2.
@@ -76,3 +96,13 @@ Zen of Python!!!
 29.
 30.
 >>>>>>> 6baa3e8 (SoKKoS)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d2d3363 (SoKKoS)
+=======
+>>>>>>> 14fe43b (resolt conflict_final)
+=======
+>>>>>>> 5ac61ab01c4eda0348f0ffce7c9d91c94880b15e
+>>>>>>> 39ab282eb4d2756cda9a0664c836fd10335bc2dd
