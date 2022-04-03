@@ -12,7 +12,3 @@ def largest_number():
     else:
         print(f'{first_number} equal {second_number}')
 largest_number()
-
-
-
-
