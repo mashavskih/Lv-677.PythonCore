@@ -7,6 +7,4 @@ def largest_number(a = int, b = int):
     '''
     Returns largest number of two numbers: a and b
     '''
-    return a if a >b else b
-
-print (largest_number(2,7))
+    return a if a > b else b
