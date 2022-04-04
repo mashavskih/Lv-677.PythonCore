@@ -20,17 +20,17 @@ def erea_circle(r):
     p_circle = math.pi * r**2
     return p_circle
 
-rectangle = int(input(
+figure = int(input(
                 "Enter 1 if calculates  the area of a rectangle,\
                 2 if calculates the area of a triangle and \
                 3 if calculates the area of a circle : "
                 ))
 
-if rectangle == 1:
+if figure == 1:
     print(erea_rectangle(int(input("Enter the side 1: ")), int(input("Enter the side 1: "))))
-elif rectangle == 2 :
+elif figure == 2 :
     print(erea_triangle(int(input("Enter the triangle height: ")), int(input("Enter the base of a triangle: "))))
-elif rectangle == 3:
+elif figure == 3:
     print(erea_circle(int(input("Enter the circle radius: "))))
 else:
     print("Error you dont etner True numder !")
